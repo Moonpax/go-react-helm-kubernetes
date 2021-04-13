@@ -1,0 +1,6 @@
+# Default Values for my Helm Chart
+
+container:
+  image: moonpax/go-api
+
+replicaCount: 3
